@@ -38,7 +38,7 @@ export default function IntroSlide() {
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
                 <span>
-                  Maîtriser les 5 techniques d'extension (cil à cil, 2D, volume russe, œil de biche, œil ouvert)
+                  Maîtriser les 3 techniques principales (Cils naturels un-à-un Technique Classique, Technique Volume 3D/hybride, Volume Russe)
                 </span>
               </li>
               <li className="flex items-start gap-3">
