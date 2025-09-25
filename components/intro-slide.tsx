@@ -43,6 +43,10 @@ export default function IntroSlide() {
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
+                <span>Découvrir 2 techniques avancées supplémentaires (œil de biche, œil ouvert)</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
                 <span>Réaliser la cartographie de l'œil et choisir la technique adaptée</span>
               </li>
               <li className="flex items-start gap-3">
