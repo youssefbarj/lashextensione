@@ -38,12 +38,12 @@ export default function IntroSlide() {
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
                 <span>
-                  Maîtriser les 3 techniques principales (Cils naturels un-à-un Technique Classique, Technique Volume 3D/hybride, Volume Russe)
+                  Maîtriser 2 techniques principales avec vidéos pratiques (Technique Classique + Volume)
                 </span>
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
-                <span>Découvrir 2 techniques avancées supplémentaires (œil de biche, œil ouvert)</span>
+                <span> Découvrir 3 techniques avancées (Volume 3D/Hybride OU Volume Russe, œil de biche, et œil ouvert)</span>
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
