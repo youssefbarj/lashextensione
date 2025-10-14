@@ -38,12 +38,12 @@ export default function IntroSlide() {
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
                 <span>
-                  Maîtriser 2 techniques principales avec vidéos pratiques (Technique Classique + Volume)
+                    Maîtriser 2 techniques principales avec vidéos pratiques (Technique Classique + Volume Russe)
                 </span>
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
-                <span> Découvrir 3 techniques avancées (Volume 3D/Hybride OU Volume Russe, œil de biche, et œil ouvert)</span>
+                <span> Découvrir 3 techniques avancées (Volume 3D/Hybride, œil de biche, œil ouvert)</span>
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
