@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![lashextensione](https://github.com/youssefbarj/lashextensione/raw/main/screenshot.png)
+![lashextensione](https://raw.githubusercontent.com/youssefbarj/lashextensione/main/screenshot.png)
 
 ## What this slide does
 
